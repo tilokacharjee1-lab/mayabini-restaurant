@@ -1,0 +1,18 @@
+MAYABINI RESTAURANT — ADMIN PANEL SETUP
+
+Admin page: https://YOUR-SITE.netlify.app/admin/
+
+IMPORTANT: Admin page is included, but customer login will work only after connecting this site to a Git repository and enabling Netlify Identity + Git Gateway. Do not share your Netlify owner login.
+
+1. Upload this complete folder to a GitHub repository (keep index.html, admin folder and content folder at the top level).
+2. Import that GitHub repository into Netlify and deploy it.
+3. In Netlify site dashboard, enable Identity.
+4. In Identity settings, set registration to Invite only.
+5. Enable Git Gateway in Identity services.
+6. Invite the restaurant owner/customer by email in Identity. They set their own password from the invitation.
+7. Replace YOUR-SITE in admin/config.yml with the actual Netlify site URL, then commit the file.
+8. Customer opens https://YOUR-SITE.netlify.app/admin/ and signs in. They can edit menu categories, dish names and prices.
+
+Security: Invite only; never give customer your personal Netlify or GitHub account password. Git Gateway CMS users can edit the configured content in the repository, so only invite trusted editors.
+
+Photos and business hours are not yet connected to editable fields in this first admin version.

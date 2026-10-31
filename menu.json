@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "name": "Chicken Specialties",
+      "subtitle": "Indian main course · Non-veg",
+      "items": [
+        {
+          "name": "Curry / Kadai / Kasha / Karma / Do Pyaza / Bharta",
+          "price": "₹170 / ₹320"
+        },
+        {
+          "name": "Chicken Butter Masala / Malai Chicken",
+          "price": "₹200 / ₹360"
+        },
+        {
+          "name": "Chicken Boil",
+          "price": "₹220 / ₹400"
+        },
+        {
+          "name": "Chicken with Potato Curry",
+          "price": "₹190 / ₹350"
+        },
+        {
+          "name": "Chicken with Black Dal",
+          "price": "₹190 / ₹350"
+        },
+        {
+          "name": "Chicken with Chana Dal",
+          "price": "₹190 / ₹350"
+        },
+        {
+          "name": "Chilli Chicken Dry / Gravy",
+          "price": "₹250"
+        },
+        {
+          "name": "Chicken with Black Sesame Seeds",
+          "price": "₹350"
+        },
+        {
+          "name": "Chicken Handi Special",
+          "price": "₹370"
+        },
+        {
+          "name": "Chicken Black Pepper",
+          "price": "₹350"
+        },
+        {
+          "name": "Lemon Chicken",
+          "price": "₹350"
+        }
+      ]
+    },
+    {
+      "name": "Choice of Mutton",
+      "subtitle": "Half / Full",
+      "items": [
+        {
+          "name": "Curry / Kasha / Masala / Karma",
+          "price": "₹199 / ₹399"
+        },
+        {
+          "name": "Mutton with Potato Curry",
+          "price": "₹230 / ₹450"
+        },
+        {
+          "name": "Mutton with Black Dal",
+          "price": "₹240 / ₹450"
+        },
+        {
+          "name": "Mutton with Chana Dal",
+          "price": "₹240 / ₹450"
+        },
+        {
+          "name": "Mutton Handi",
+          "price": "₹450"
+        }
+      ]
+    }
+  ]
+}
